@@ -37,3 +37,7 @@ build/
 
 # Local app cache (GTFS static + tiles)
 .damose_dionisi/
+
+# IntelliJ build/output folders
+out/
+
