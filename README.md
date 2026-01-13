@@ -1,12 +1,12 @@
 # ![Icona](images/damose-app.png) Damose_Dionisi 
 
-## Introduction
+## ![Icona](images/damose-main.png) Introduction
 
 Damose_Dionisi is a desktop Java client for browsing Rome public transport data using GTFS static schedules and GTFS real-time feeds. The application provides a modern UI centered on an interactive map, search/info panels (lines, stops) and continuous vehicle updates. It supports online real-time operation and offline fallback using a local GTFS cache.
 
 ---
 
-## Features
+## ![Icona](images/damose-main.png) Features
 
 ![Schermata Home](images/homeExample.png)
 
@@ -23,7 +23,7 @@ Damose_Dionisi is a desktop Java client for browsing Rome public transport data 
 
 ---
 
-## Technologies & Libraries
+## ![Icona](images/damose-main.png) Technologies & Libraries
 
 - Java 25 (project configured for Java 25 in `pom.xml`)
 - JavaFX (OpenJFX) — declared in `pom.xml` as 21.0.6; for running from CLI/IDE use a JavaFX SDK whose major version is compatible with your JDK or align the `pom.xml`.
@@ -37,7 +37,7 @@ Damose_Dionisi is a desktop Java client for browsing Rome public transport data 
 
 ---
 
-## Resources used
+## ![Icona](images/damose-main.png) Resources used
 
 - GTFS static files  — downloaded or provided in cache.
 	- GTFS URL = "https://romamobilita.it/sites/default/files/rome_static_gtfs.zip";
@@ -47,7 +47,7 @@ Damose_Dionisi is a desktop Java client for browsing Rome public transport data 
 
 ---
 
-## Requirements
+## ![Icona](images/damose-main.png) Requirements
 
 - JDK 25 (or the JDK version you compile against) installed and `JAVA_HOME` environment variable set
 - Maven (or use the included Maven Wrapper `./mvnw`)
@@ -56,7 +56,7 @@ Damose_Dionisi is a desktop Java client for browsing Rome public transport data 
 
 ---
 
-## Installation & Run
+## ![Icona](images/damose-main.png) Installation & Run
 
 ### 1. Clone repository
 
@@ -116,7 +116,7 @@ java --module-path "C:\javafx\lib" --add-modules javafx.controls,javafx.fxml -ja
 
 ---
 
-## Project structure
+## ![Icona](images/damose-main.png) Project structure
 
 ```
 src
@@ -151,7 +151,7 @@ Key packages:
 
 ---
 
-## Developer notes
+## ![Icona](images/damose-main.png) Developer notes
 
 - The application isolates UI thread (JavaFX/Swing) from heavy work: use `Platform.runLater` for JavaFX UI updates and `SwingUtilities.invokeLater` for Swing map updates.
 - GTFS realtime index updates are applied atomically (build temporary index → volatile swap → listener notify).
@@ -159,10 +159,10 @@ Key packages:
 
 ---
 
-## Author
+## ![Icona](images/damose-main.png) Author
 
 Giulio Dionisi
 
 ---
 
-![Icona](images/damose-main.png) ![Icona](images/damose-loading.png) ![Icona](images/damose-error.png) ![Icona](images/damose-main.png) ![Icona](images/damose-loading.png) ![Icona](images/damose-error.png) ![Icona](images/damose-main.png) ![Icona](images/damose-loading.png) ![Icona](images/damose-error.png) ![Icona](images/damose-main.png) ![Icona](images/damose-loading.png) ![Icona](images/damose-error.png) ![Icona](images/damose-main.png) ![Icona](images/damose-loading.png) ![Icona](images/damose-error.png) ![Icona](images/damose-main.png) ![Icona](images/damose-loading.png) ![Icona](images/damose-error.png)
+ 
