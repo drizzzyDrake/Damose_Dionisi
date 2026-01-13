@@ -1,0 +1,13 @@
+VIEW
+
+Contenuto:
+
+Classi responsabili della presentazione dei dati all’utente, attraverso
+una GUI (Graphical User Interface, in italiano Interfaccia Grafica Utente)
+(utilizzo di javaFX).
+
+Ruolo:
+
+Mostrare all'utente i dati provenienti dal Model (passati tramite il controller)
+in una forma leggibile e comprensibile. Non gestisce logica di parsing o business,
+si limita a visualizzare.

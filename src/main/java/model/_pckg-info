@@ -1,0 +1,13 @@
+MODEL
+
+Contenuto:
+
+Le entità, attraverso classi JavaBean,
+cioè classi semplici con attributi, costruttori, getter e setter.
+
+Le repository, classi che si occupano di leggere i file GTFS,
+parsare i dati, salvarli in memoria, e fornire metodi di accesso.
+
+Ruolo:
+
+Parsing dei dati e definizione degli elementi del progetto.

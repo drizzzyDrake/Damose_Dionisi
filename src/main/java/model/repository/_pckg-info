@@ -1,0 +1,9 @@
+MODEL.REPOSITORY
+
+Contenuto:
+
+Classi per parsing dei dati
+
+Ruolo
+
+Caricare dati da file, organizzarli in strutture efficienti ed esporre metodi per accedere a tali dati

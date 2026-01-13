@@ -1,0 +1,11 @@
+CONTROLLER
+
+Contenuto:
+
+Classi che collegano la View e il Model: ricevono input dall’utente,
+chiamano i metodi del Model e passano i risultati alla View.
+
+Ruolo:
+
+Gestire il flusso dell’applicazione: mediazione tra input dell’utente,
+logica dei dati e presentazione dei risultati.

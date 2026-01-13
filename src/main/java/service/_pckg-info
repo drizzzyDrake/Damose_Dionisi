@@ -1,0 +1,6 @@
+SERVICE
+
+Contenuto:
+
+Classi di supporto al pattern MVC, aiutano a mantenere ordinati i codici dei controller
+e si occupano della gestione diretta dei file.
