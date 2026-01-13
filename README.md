@@ -1,6 +1,5 @@
-# Damose_Dionisi ![Icona](images/damose-app.png) 
+# ![Icona](images/damose-app.png) Damose_Dionisi 
 
-![Icona](images/damose-main.png) ![Icona](images/damose-loading.png) ![Icona](images/damose-error.png) ![Icona](images/damose-main.png) ![Icona](images/damose-loading.png) ![Icona](images/damose-error.png) ![Icona](images/damose-main.png) ![Icona](images/damose-loading.png) ![Icona](images/damose-error.png)
 ## Introduction
 
 Damose_Dionisi is a desktop Java client for browsing Rome public transport data using GTFS static schedules and GTFS real-time feeds. The application provides a modern UI centered on an interactive map, search/info panels (lines, stops) and continuous vehicle updates. It supports online real-time operation and offline fallback using a local GTFS cache.
@@ -165,3 +164,5 @@ Key packages:
 Giulio Dionisi
 
 ---
+
+![Icona](images/damose-main.png) ![Icona](images/damose-loading.png) ![Icona](images/damose-error.png) ![Icona](images/damose-main.png) ![Icona](images/damose-loading.png) ![Icona](images/damose-error.png) ![Icona](images/damose-main.png) ![Icona](images/damose-loading.png) ![Icona](images/damose-error.png) ![Icona](images/damose-main.png) ![Icona](images/damose-loading.png) ![Icona](images/damose-error.png) ![Icona](images/damose-main.png) ![Icona](images/damose-loading.png) ![Icona](images/damose-error.png) ![Icona](images/damose-main.png) ![Icona](images/damose-loading.png) ![Icona](images/damose-error.png)
