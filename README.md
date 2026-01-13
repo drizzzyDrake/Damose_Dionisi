@@ -119,25 +119,26 @@ java --module-path "C:\javafx\lib" --add-modules javafx.controls,javafx.fxml -ja
 ## ![Icona](images/damose-main.png) Project structure
 
 ```
-src
-├───main
-│   ├───java
-│   │   ├───app
-│   │   ├───controller
-│   │   ├───model
-│   │   │   └───repository
-│   │   ├───operator
-│   │   ├───service
-│   │   └───view
-│   │       ├───layouts
-│   │       └───nodes
-│   ├───proto
-│   └───resources
-│       ├───icons
-│       └───META-INF
-└───test
-    └───java
-        └───operator
+📁 src
+├── 📁 main
+│   ├── 📁 java
+│   │   ├── 📁 app
+│   │   ├── 📁 controller
+│   │   ├── 📁 model
+│   │   │   └── 📁 repository
+│   │   ├── 📁 operator
+│   │   ├── 📁 service
+│   │   └── 📁 view
+│   │       ├── 📁 layouts
+│   │       └── 📁 nodes
+│   ├── 📁 proto
+│   └── 📁 resources
+│       ├── 📁 icons
+│       └── 📁 META-INF
+└── 📁 test
+    └── 📁 java
+        └── 📁 operator
+
 ```
 
 Key packages:
